@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE my_inventory(
+CREATE OR REPLACE TABLE SHARADA_DB.PUBLIC.my_inventory(
   sku VARCHAR,
   price NUMBER,
   comments VARCHAR
